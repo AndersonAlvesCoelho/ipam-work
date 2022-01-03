@@ -1,0 +1,1595 @@
+[
+  {
+    "off_id": 1,
+    "off_cod": "ipam_brasilia",
+    "off_name": "IPAM BRASÍLIA",
+    "off_description": null,
+    "off_city": "Brasília",
+    "off_uf": "DF",
+    "off_image": "bg-office.jpg",
+    "off_address": "SCLN 211, Bloco B, Sala 201",
+    "roo_room": [
+      {
+        "roo_name": "Castanheira",
+        "roo_description": null,
+        "roo_chair": 7
+      },
+      {
+        "roo_name": "Ipê",
+        "roo_description": null,
+        "roo_chair": 10
+      },
+      {
+        "roo_name": "Pequizeiro",
+        "roo_description": null,
+        "roo_chair": 9
+      },
+      {
+        "roo_name": "Samaúma",
+        "roo_description": null,
+        "roo_chair": 10
+      }
+    ],
+    "des_desk": [
+      {
+        "naemDesk": "Gestão",
+        "desk": [
+          {
+            "des_number": 1,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 2,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 3,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 4,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 5,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 6,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 7,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 8,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 9,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 10,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 11,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 12,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 13,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 14,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 15,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 16,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 17,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 17,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "naemDesk": "Ciência",
+        "desk": [
+          {
+            "des_number": 1,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 2,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 3,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 4,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 5,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 6,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 7,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 8,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 9,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 10,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 11,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 12,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 13,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 14,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 15,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 16,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 17,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "naemDesk": "P.P e D.T",
+        "desk": [
+          {
+            "des_number": 1,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 2,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 3,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 4,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 5,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 6,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 7,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 8,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 9,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 10,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 11,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 12,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 13,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 14,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 15,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 16,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 17,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "naemDesk": "Comunicação",
+        "desk": [
+          {
+            "des_number": 1,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 2,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 3,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 4,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 5,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 6,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 7,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 8,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 9,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 10,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 11,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 12,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 13,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 14,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 15,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 16,
+            "des_obs": null,
+            "sit_cod": "unavailable",
+            "sit_name": "Indisponível",
+            "sit_color": "light",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          },
+          {
+            "des_number": 17,
+            "des_obs": null,
+            "sit_cod": "busy",
+            "sit_name": "Ocupado",
+            "sit_color": "danger",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "off_id": 2,
+    "off_cod": "ipam_belem",
+    "off_name": "IPAM BELÉM",
+    "off_description": null,
+    "off_city": "Belém",
+    "off_uf": "PA",
+    "off_image": "bg-office.jpg",
+    "off_address": "Av. Rômulo Maiorana, Nº 700, Torre Vitta Obffice, Sala 1011",
+    "roo_room": [
+      {
+        "roo_name": "Sala Reunião 01",
+        "roo_description": null,
+        "roo_chair": 10
+      }
+    ],
+    "des_desk": [
+      {
+        "naemDesk": "Ciência",
+        "desk": [
+          {
+            "des_number": 1,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "off_id": 3,
+    "off_cod": "ipam_canarana",
+    "off_name": "IPAM CANARANA",
+    "off_description": null,
+    "off_city": "Mato Crosso",
+    "off_uf": "MT",
+    "off_image": "bg-office.jpg",
+    "off_address": "Rua Horizontina, 104, Bairro Centro",
+    "roo_room": [
+      {
+        "roo_name": "Sala Reunião 01",
+        "roo_description": null,
+        "roo_chair": 10
+      }
+    ],
+    "des_desk": [
+      {
+        "naemDesk": "Ciência",
+        "desk": [
+          {
+            "des_number": 1,
+            "des_obs": null,
+            "sit_cod": "available",
+            "sit_name": "Disponível",
+            "sit_color": "success",
+            "inf_info": [
+              {
+                "inf_peripherals": "Monitor",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Teclado",
+                "inf_count": 1
+              },
+              {
+                "inf_peripherals": "Mouse",
+                "inf_count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
